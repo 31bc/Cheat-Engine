@@ -76,8 +76,4 @@
   This build is a personal customization and must comply with the original license terms.
 </p>
 
-<blockquote align="center">
-  ⚠️ For <b>single-player / modding / educational</b> use only.
-  Always respect the Terms of Service of the software you attach to.
-  Do not use it in online multiplayer environments — it harms other players.
-</blockquote>
+
