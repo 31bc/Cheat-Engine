@@ -62,7 +62,7 @@
   <li>Choose build mode <code>Release 64-Bit</code> (or <code>Release 64-Bit O4 AVX2</code>) and build (<kbd>Shift+F9</kbd>).</li>
 </ol>
 
-<h2>👤 Made By</h2>
+
 
 
 </p>
