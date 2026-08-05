@@ -64,8 +64,7 @@
 
 <h2>👤 Made By</h2>
 
-<p align="center">
-  Built with 💥 by <b><a href="https://github.com/Shadow">YOUR-USERNAME</a></b> — replace this with your GitHub.
+
 </p>
 
 <h2>🙏 Credits & License</h2>
