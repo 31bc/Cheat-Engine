@@ -72,7 +72,7 @@
 <p>
   This project is a fork of <a href="https://github.com/cheat-engine/cheat-engine">Cheat Engine</a> by <b>Dark Byte</b>,
   licensed under the <b>GPL-2.0</b>. All credit for the engine goes to the original authors.
-  This build is a personal customization and must comply with the original license terms.
+  This build is a personal customization and must comply with the original license terms..
 </p>
 
 
